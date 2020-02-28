@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [A Goat](https://mediadc.brightspotcdn.com/dims4/default/61e086c/2147483647/strip/true/crop/1060x600+0+0/resize/1060x600!/quality/90/?url=https%3A%2F%2Fmediadc.brightspotcdn.com%2F5b%2Feb%2Fe0f9008444b3885c55e746b6eee4%2Fistock-834732994.jpg)
